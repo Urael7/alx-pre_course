@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo"The school is open!"
 =======
 echo"The school is open"
 >>>>>>> update_script
+=======
+echo"The school is open"
+>>>>>>> 0cc30118c22b95b445002e3e1fc48952b3042dc0
 
